@@ -154,6 +154,10 @@ inside the relevant Python file stored on the ESP device.
 
 **M5Stick C Plus Wearable** – Douglas
 
+https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-with-watch-accessories
+
+Please see PDF in M5Stick folder for further description of issues.
+
 Unfortunately, getting this device set up to run the code I made for it did not work at all. For some reason  
 it wouldn’t fully communicate with any of the machines I tried flashing it with, be it MacOS, Windows or  
 Ubuntu. I’m not sure why this didn’t work as I have all the correct drivers, it shows up in my system reports  
