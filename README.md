@@ -53,7 +53,7 @@ The setup process for the MQTT Broker is very straightforward using the guide be
 
 https://github.com/home-assistant/addons/blob/master/mosquitto/DOCS.md
 
-**Room Prescence Setup –** Douglas
+**Room Prescence Setup –**
 
 Our Room Prescence nodes use ESP32 microcontroller board with a PIR sensor wired to them. The boards  
 run a small snippet of MicroPython code which detects whether there is someone in the vicinity and sends  
